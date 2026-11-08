@@ -1,4 +1,4 @@
-""
+"""
 RECORD CHECK  -  my version
 ===========================
 
@@ -6,11 +6,8 @@ Name  :Ismail
 Lane  :  IT
 Date  : 20/10/2026
 
-Run it:   python template.py
-
-
-    
-    
+Run it:  miniproject_week01.py
+"""
     
 over_limits_counts = 0
 while True : 
